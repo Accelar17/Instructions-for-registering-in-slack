@@ -1,3 +1,6 @@
+- Начало работы с slack
+- [https://www.youtube.com/watch?v=jj93FUQx-Ew&t=11s](https://www.youtube.com/watch?v=jj93FUQx-Ew&t=11s)
+
 - Базовые принципы
 [https://www.youtube.com/watch?v=ogozmMxblZw](https://www.youtube.com/watch?v=ogozmMxblZw)
 
